@@ -1,0 +1,68 @@
+{
+  "chapters": [
+    {
+      "chapter": 0,
+      "scenes": [
+        {
+          "scene": 1,
+          "image": "image1.jpg",
+          "content": "You stand on the construction site surrounded by massive cranes, and the air is filled with the sound of metallic collision. Workers in yellow helmets among stacks of construction materials are diligently working, creating the foundation for a new building.",
+          "content_rus": "Вы стоите на стройплощадке, окруженные массивными кранами, и в воздухе раздается звук металлического столкновения. Рабочие в желтых шлемах среди стопок строительных материалов усердно трудятся, создавая фундамент для нового здания."
+        },
+        {
+          "scene": 2,
+          "image": "image1.jpg",
+          "content": "You examine the blueprints of the building in your hands. Every line on the paper is the architect's vision, and every millimeter is a strategic calculation. The decision you make will impact the future structure.",
+          "content_rus": "Вы рассматриваете чертежи здания в ваших руках. Каждая линия на бумаге - это видение архитектора, и каждый миллиметр - стратегический расчет. Решение, которое вы примете, повлияет на будущую структуру."
+        },
+        {
+          "scene": 3,
+          "image": "image1.jpg",
+          "content": "During a meeting with the team, you discuss the details of the project. Ideas float in the air, and each team member contributes. You feel the synergy of like-minded individuals working towards a common goal.",
+          "content_rus": "Во время встречи с командой вы обсуждаете детали проекта. Идеи парят в воздухе, и каждый член команды вносит свой вклад. Вы чувствуете синергию единомышленников, работающих над общей целью."
+        },
+        {
+          "scene": 4,
+          "image": "image1.jpg",
+          "content": "Your gaze shifts to the workers diligently working at heights. They work seamlessly, like an orchestra, breathing life into your project. Suddenly, you realize that construction is not just a business; it's art and the labor of a collaborative team.",
+          "content_rus": "Ваш взгляд переходит к работникам, усердно трудящимся на высотах. Они работают слаженно, как оркестр, оживляя ваш проект. Внезапно вы понимаете, что строительство - это не только бизнес; это искусство и труд коллективной команды."
+        }
+      ]
+    },
+    {
+      "chapter": 1,
+      "scenes": [
+        {
+          "scene": 1,
+          "image": "image2.jpg",
+          "content": "After months of hard work, you stand in front of the completed building. This magnificent structure is not just a building; it's a symbol of your success and the strength of your team.",
+          "content_rus": "После нескольких месяцев упорного труда вы стоите перед завершенным зданием. Эта великолепная структура - не просто здание; это символ вашего успеха и силы вашей команды."
+        },
+        {
+          "scene": 2,
+          "image": "image2.jpg",
+          "content": "The opening ceremony begins. You feel pride watching the astonished faces of the guests, seeing the result of your efforts. The building shines with new colors, and its form emphasizes the character and style of your company.",
+          "content_rus": "Начинается церемония открытия. Вы чувствуете гордость, наблюдая за лицами пораженных гостей, видя результат ваших усилий. Здание сияет новыми красками, а его форма подчеркивает характер и стиль вашей компании."
+        },
+        {
+          "scene": 3,
+          "image": "image2.jpg",
+          "content": "In the evening, looking out of your office window, you see the illuminated evening sky. Reflecting on the journey with your team, you realize that construction is not just about creating physical structures but also shaping stories and memories.",
+          "content_rus": "Вечером, глядя из окна своего офиса, вы видите подсвеченное вечернее небо. Отражаясь о пути вместе с вашей командой, вы понимаете, что строительство - это не только создание физических структур, но и формирование историй и воспоминаний."
+        },
+        {
+          "scene": 4,
+          "image": "image2.jpg",
+          "content": "Years later, you look back at the successful projects of your team. Your reputation in the construction industry continues to grow, and you take pride in the achievements of your business.",
+          "content_rus": "Спустя годы вы оглядываетесь на успешные проекты вашей команды. Ваша репутация в строительной отрасли продолжает расти, и вы гордитесь достижениями вашего бизнеса."
+        },
+        {
+          "scene": 5,
+          "image": "image2.jpg",
+          "content": "Your contribution to the construction industry has become an integral part of its history. Your buildings serve not only as functional structures but also as a legacy passed down from generation to generation.",
+          "content_rus": "Ваш вклад в строительную отрасль стал неотъемлемой частью ее истории. Ваши здания служат не только функциональными объектами, но и наследием, которое будет передано из поколения в поколение."
+        }
+      ]
+    }
+  ]
+}
