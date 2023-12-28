@@ -5,6 +5,8 @@
   "scripts": {
     "start": "expo start",
     "android": "expo start --android",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build",
     "ios": "expo start --ios",
     "web": "expo start --web"
   },
@@ -41,7 +43,8 @@
     "styled-components": "^6.1.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "gh-pages": "^6.1.1"
   },
   "private": true
 }
